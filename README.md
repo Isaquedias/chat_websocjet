@@ -1,5 +1,7 @@
 #Chat com WebSocket: Backend em Node.js e Frontend Simples
 
+![Tela do Chat](https://github.com/Isaquedias/chat_websocket/blob/main/frontend/images/app.png?raw=true)
+
 Este projeto consiste em um sistema de chat que utiliza a tecnologia WebSocket para permitir comunicação em tempo real. O backend foi desenvolvido em Node.js, enquanto o frontend é composto por HTML, CSS e JavaScript, criando uma aplicação simples e eficiente.
 
 ## Conteúdo
